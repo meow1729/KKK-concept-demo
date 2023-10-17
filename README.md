@@ -1,2 +1,2 @@
-# cookie-cat-prototype
-concept demo
+# Kookie-Kat-Kutter-prototype
+game concept demo
