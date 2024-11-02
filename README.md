@@ -1,2 +1,2 @@
-# Kookie-Kat-Kutter-prototype
+# Kookie-Kat-Kollector-prototype
 game concept demo
